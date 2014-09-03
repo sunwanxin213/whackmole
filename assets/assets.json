@@ -1,0 +1,41 @@
+{
+    "preload": [
+        {"type": "image","key": "preloadBg","url": "assets/preload-bg.png","overwrite": false},
+        {"type": "image","key": "preloadProgress","url": "assets/preload-progress.png","overwrite": false},
+        {"type": "bitmapFont","key": "coFont","textureURL": "assets/preload-carterone.png","xmlURL":"assets/preload-carterone.fnt","xmlData":null,"xSpacing":0,"ySpacing":0}
+
+
+    ],
+
+    "mainMenu":[
+        {"type": "image","key": "mainMenuRuleBtn","url": "assets/main-menu-rule-btn.png","overwrite": false},
+        {"type": "image","key": "mainMenuRulePannel","url": "assets/main-menu-rule-pannel.png","overwrite": false},
+        {"type": "image","key": "mainMenuStartBtn","url": "assets/main-menu-start-btn.png","overwrite": false},
+        {"type": "image","key": "mainMenuTitleMole","url": "assets/main-menu-title-mole.png","overwrite": false},
+        {"type": "image","key": "mainMenuTitle","url": "assets/main-menu-title.png","overwrite": false}
+    ],
+
+    "game":[
+        {"type": "image","key": "gameBg","url": "assets/game-bg.png","overwrite": false},
+        {"type": "image","key": "gameBomb","url": "assets/game-bomb.png","overwrite": false},
+        {"type": "image","key": "gameHelpBtn","url": "assets/game-help-btn.png","overwrite": false},
+        {"type": "image","key": "gameMole","url": "assets/game-mole.png","overwrite": false},
+        {"type": "image","key": "gameMole2","url": "assets/game-mole2.png","overwrite": false},
+        {"type": "image","key": "gameMusicClose","url": "assets/game-music-close.png","overwrite": false},
+        {"type": "image","key": "gameMusicOpen","url": "assets/game-music-open.png","overwrite": false},
+        {"type": "image","key": "gameRulePanner","url": "assets/game-rule-panner.png","overwrite": false},
+        {"type": "image","key": "gameRuleText","url": "assets/game-rule-text.png","overwrite": false},
+        {"type": "image","key": "gameScoreBg","url": "assets/game-score-bg.png","overwrite": false},
+        {"type": "image","key": "gameSword","url": "assets/game-sword.png","overwrite": false},
+        {"type": "image","key": "gameTimeBg","url": "assets/game-time-bg.png","overwrite": false},
+        {"type": "image","key": "gameQaBanner","url": "assets/game-qa-banner.png","overwrite": false},
+        {"type": "image","key": "gameQaSelectBtn","url": "assets/game-qa-select-btn.png","overwrite": false},
+        {"type": "image","key": "gameQaSubmitBtn","url": "assets/game-qa-submit-btn.png","overwrite": false}    ],
+    "meta": {
+        "generated": "1401380327373",
+        "version": "1.0",
+        "app": "findkey",
+        "url": "http://www.izhanghui.com",
+        "copyright": "Mowow Software 2014"
+    }
+}
